@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fanyixuanf&theme=github)
 [![Yixuan's github stats](https://github-readme-stats.vercel.app/api?username=fanyixuanf)](https://github.com/fanyixuan/github-readme-stats)
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lilaroky}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{fanyixuanf}/count.svg" /></p> 
