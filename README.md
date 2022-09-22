@@ -1,5 +1,6 @@
 ### 😄 Hi there, I'm fanyixuan, Welcome~~ 👋
 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{fanyixuanf}/count.svg" /></p> 
 <!--
 **fanyixuanf/fanyixuanf
 ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,4 +22,3 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fanyixuanf&theme=github)
 [![Yixuan's github stats](https://github-readme-stats.vercel.app/api?username=fanyixuanf)](https://github.com/fanyixuan/github-readme-stats)
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{fanyixuanf}/count.svg" /></p> 
