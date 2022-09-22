@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fanyixuanf&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fanyixuanf&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fanyixuanf&theme=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanyixuanf&hide=html)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanyixuanf&hide=html) -->
 ![Yixuan's github stats](https://github-readme-stats.vercel.app/api?username=fanyixuanf&show_icons=true&count_private=true&line_height=40)
 <!-- [![Yixuan's github stats](https://github-readme-stats.vercel.app/api?username=fanyixuanf)](https://github.com/fanyixuan/github-readme-stats) -->
 
