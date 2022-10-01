@@ -30,6 +30,15 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,angular,azure,bash,css,docker,electron,github,gitlab,go,grafana,html,js,jenkins,jquery,kubernetes,laravel,linux,lua,md,mongodb,mysql,nginx,nodejs,php,py,qt,react,redis,sqlite,selenium,ts,unreal,unity,vscode,vue,vim,webpack,bootstrap,graphql,java,powershell,stackoverflow," />
   </a>
+  <img height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/xampp.svg">
+  <img height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/Alfred.svg">
+  <img height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/AmazonS3.svg">
+  <img height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/Baidu.svg">
+  <img height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/MariaDB.svg">
+  <img height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/RabbitMQ.svg">
+  <img height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/RocketMQ.svg">
+  <img height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/Zhihu.svg">
+
 </p>
 
 ## Github stats 📊
@@ -59,6 +68,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=fanyixuanf&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+ 
 
 
 
