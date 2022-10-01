@@ -1,33 +1,63 @@
-### 😄 Hi there, I'm fanyixuan, Welcome~~ 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=16&pause=500&color=D83B7D&background=14132100&width=435&lines=%F0%9F%98%84+Hi+there%2C+I'm+fanyixuan%2C+Welcome~~+%F0%9F%91%8B;I+will+try+my+best%EF%BC%8Cto+be+the+best.;I+%E2%9D%A4+Open+Source)](https://git.io/typing-svg)
 
 [![Github](https://img.shields.io/github/followers/fanyixuanf?label=Follow&style=social)](https://github.com/fanyixuanf)
 
-I ❤ Open Source. I love [Go](https://golang.org).
-
+## Skills :  👇
 <!--
-**fanyixuanf/fanyixuanf
-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
+<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> 
+<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/> 
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,angular,azure,bash,css,docker,electron,github,gitlab,go,grafana,html,js,jenkins,jquery,kubernetes,laravel,linux,lua,md,mongodb,mysql,nginx,nodejs,php,py,qt,react,redis,sqlite,selenium,ts,unreal,unity,vscode,vue,vim,webpack," />
+  </a>
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fanyixuanf&theme=radical)
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fanyixuanf&theme=radical) -->
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fanyixuanf&theme=radical) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanyixuanf&hide=html&theme=radical)
-![Yixuan's github stats](https://github-readme-stats.vercel.app/api?username=fanyixuanf&show_icons=true&count_private=true&line_height=40&theme=radical)
-<!-- [![Yixuan's github stats](https://github-readme-stats.vercel.app/api?username=fanyixuanf)](https://github.com/fanyixuan/github-readme-stats&theme=radical) -->
+## Github stats 📊
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{fanyixuanf}/count.svg" /></p> 
+<details> 
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+    <a href="https://github-profile-summary-cards.vercel.app"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fanyixuanf&theme=radical" alt=""></a>
+    <a href="https://github-profile-summary-cards.vercel.app"><img alt="fanyixuan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fanyixuanf&hide=html&theme=radical"/></a>
+    <a href="https://github-profile-summary-cards.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=fanyixuanf&show_icons=true&count_private=true&line_height=40&theme=radical" alt=""></a>
+  <br/>
+</details>
 
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+<a href="https://activity-graph.herokuapp.com/graph"><img alt="fanyixuan's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=fanyixuanf&bg_color=fff&color=000&line=00E676&point=000&hide_border=true" /></a>
+</details>
 
+<details>
+  <summary>Profile Count 👁️</summary>
+  <br/>
+  <img src="https://profile-counter.glitch.me/{fanyixuanf}/count.svg">
+</details>
 
+## GitHub Profile Trophy 🏆
+[![trophy](https://github-profile-trophy.vercel.app/?username=fanyixuanf&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+
+[comment]: <> (<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=16&pause=500&color=D83B7D&background=14132100&width=435&lines=%F0%9F%98%84+Hi+there%2C+I'm+fanyixuan%2C+Welcome~~+%F0%9F%91%8B;I+will+try+my+best%EF%BC%8Cto+be+the+best.;I+%E2%9D%A4+Open+Source" alt="Typing SVG" /></a>)
