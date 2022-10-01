@@ -38,7 +38,6 @@
   <img height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/RabbitMQ.svg">
   <img height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/RocketMQ.svg">
   <img height="48" width="48" src="https://raw.githubusercontent.com/fanyixuanf/fanyixuanf/master/icons/Zhihu.svg">
-
 </p>
 
 ## Github stats 📊
