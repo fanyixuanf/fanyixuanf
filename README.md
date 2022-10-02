@@ -63,6 +63,10 @@
   <img src="https://profile-counter.glitch.me/{fanyixuanf}/count.svg">
 </details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## GitHub Profile Trophy 🏆
 [![trophy](https://github-profile-trophy.vercel.app/?username=fanyixuanf&row=1&margin-w=15&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
