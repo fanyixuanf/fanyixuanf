@@ -64,6 +64,15 @@
 </details>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 25 July 2018 - To: 01 October 2022
+
+Total Time: 3 mins
+
+Go   3 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 
