@@ -66,16 +66,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 July 2018 - To: 19 October 2022
+From: 25 July 2018 - To: 20 October 2022
 
-Total Time: 37 hrs 19 mins
+Total Time: 39 hrs 42 mins
 
-Go                     23 hrs 40 mins  >>>>>>>>>>>>>>>>---------   63.42 %
-Markdown               9 hrs 29 mins   >>>>>>-------------------   25.44 %
-Diagrams.net Diagram   2 hrs 53 mins   >>-----------------------   07.77 %
-YAML                   19 mins         -------------------------   00.85 %
-HTML                   18 mins         -------------------------   00.82 %
-GitIgnore file         15 mins         -------------------------   00.70 %
+Go                     23 hrs 40 mins  >>>>>>>>>>>>>>>----------   59.60 %
+Markdown               9 hrs 29 mins   >>>>>>-------------------   23.91 %
+Diagrams.net Diagram   2 hrs 53 mins   >>-----------------------   07.30 %
+PHP                    2 hrs 16 mins   >------------------------   05.74 %
+YAML                   21 mins         -------------------------   00.91 %
+GitIgnore file         18 mins         -------------------------   00.79 %
 ```
 
 <!--END_SECTION:waka-->
