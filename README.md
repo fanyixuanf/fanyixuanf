@@ -55,7 +55,7 @@
 <details>
   <summary>Activity Graph 📈</summary>
   <br/>
-<a href="https://activity-graph.herokuapp.com/graph"><img alt="fanyixuan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=fanyixuanf" /></a>
+<a href="https://activity-graph.herokuapp.com/graph"><img alt="fanyixuan's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=fanyixuanf&theme=synthwave-84" /></a>
 </details>
 
 <details>
