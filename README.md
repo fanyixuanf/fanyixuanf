@@ -67,7 +67,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 July 2018 - To: 03 May 2023
+From: 25 July 2018 - To: 04 May 2023
 
 Total Time: 155 hrs 41 mins
 
@@ -76,7 +76,6 @@ Markdown               45 hrs 13 mins  >>>>>>>------------------   29.05 %
 PHP                    25 hrs 31 mins  >>>>---------------------   16.39 %
 Diagrams.net Diagram   6 hrs 5 mins    >------------------------   03.92 %
 textmate               4 hrs 35 mins   >------------------------   02.95 %
-YAML                   3 hrs 39 mins   >------------------------   02.35 %
 ```
 
 <!--END_SECTION:waka-->
