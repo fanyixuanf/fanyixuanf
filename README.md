@@ -67,15 +67,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2018 - To: 19 June 2023
+From: 25 July 2018 - To: 20 June 2023
 
-Total Time: 160 hrs 28 mins
+Total Time: 163 hrs 21 mins
 
-Go                     67 hrs 6 mins   >>>>>>>>>>---------------   41.82 %
-Markdown               46 hrs 20 mins  >>>>>>>------------------   28.88 %
-PHP                    29 hrs 10 mins  >>>>>--------------------   18.18 %
-Diagrams.net Diagram   6 hrs 5 mins    >------------------------   03.80 %
-textmate               4 hrs 35 mins   >------------------------   02.86 %
+Go                     67 hrs 6 mins   >>>>>>>>>>---------------   41.08 %
+Markdown               46 hrs 20 mins  >>>>>>>------------------   28.37 %
+PHP                    32 hrs 2 mins   >>>>>--------------------   19.62 %
+Diagrams.net Diagram   6 hrs 5 mins    >------------------------   03.73 %
+textmate               4 hrs 35 mins   >------------------------   02.81 %
 ```
 
 <!--END_SECTION:waka-->
