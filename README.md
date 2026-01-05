@@ -67,15 +67,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2018 - To: 02 January 2026
+From: 25 July 2018 - To: 03 January 2026
 
-Total Time: 169 hrs 42 mins
+Total Time: 1,363 hrs 43 mins
 
-Go                     67 hrs 6 mins   >>>>>>>>>>---------------   39.54 %
-Markdown               46 hrs 20 mins  >>>>>>>------------------   27.31 %
-PHP                    38 hrs 24 mins  >>>>>>-------------------   22.63 %
-Diagrams.net Diagram   6 hrs 5 mins    >------------------------   03.59 %
-textmate               4 hrs 35 mins   >------------------------   02.71 %
+PHP                    851 hrs         >>>>>>>>>>>>>>>>---------   62.40 %
+HTML                   231 hrs 22 mins >>>>---------------------   16.97 %
+SQL                    78 hrs 43 mins  >------------------------   05.77 %
+Go                     67 hrs 6 mins   >------------------------   04.92 %
+Other                  53 hrs 11 mins  >------------------------   03.90 %
 ```
 
 <!--END_SECTION:waka-->
